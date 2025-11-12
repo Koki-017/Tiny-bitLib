@@ -1,7 +1,6 @@
 {
-    "Extension for YahBoom Tiny:bit V2.0.3": "YahBoom Tiny:bit V2.0.3用 拡張機能",
     "Tinybit.Ultrasonic_Car|block": "超音波センサーの距離 (cm)",
-    "Tinybit.Ultrasonic_CarV2|block": "超音波センサー V2 の距離 (cm)",
+    "Tinybit.Ultrasonic_CarV2|block": "microbit|V2|超音波センサーの距離 (cm)",
     "Tinybit.RGB_Car_Program|block": "RGBライト (オブジェクト)",
     "Tinybit.RGB_Car_Big|block": "RGBライト (大) 色 %value",
     "Tinybit.RGB_Car_Big2|block": "RGBライト (大) R %value1 G %value2 B %value3",
@@ -11,7 +10,6 @@
     "Tinybit.CarCtrl|block": "車の動作 %index",
     "Tinybit.CarCtrlSpeed|block": "車の動作 %index 速さ %speed",
     "Tinybit.CarCtrlSpeed2|block": "車の動作 (左右別) %index 左 %speed1 右 %speed2",
-    "Tinybit.car_sport|block": "モーター (左右) 左:%sp_L 右:%sp_R",
     "Tinybit.enColor.OFF|block": "オフ",
     "Tinybit.enColor.Red|block": "赤",
     "Tinybit.enColor.Green|block": "緑",
@@ -20,6 +18,7 @@
     "Tinybit.enColor.Cyan|block": "水色",
     "Tinybit.enColor.Pinkish|block": "ピンク",
     "Tinybit.enColor.Yellow|block": "黄",
+    
     "Tinybit.enMusic.dadadum|block": "ダダダダム",
     "Tinybit.enMusic.entertainer|block": "エンターテイナー",
     "Tinybit.enMusic.prelude|block": "プレリュード",
